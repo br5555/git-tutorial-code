@@ -1,3 +1,5 @@
+Maintainers:
+    Branko
 ## git-tutorial
 Toy shell for git tutorial purposes
 
